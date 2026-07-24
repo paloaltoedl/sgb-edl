@@ -35,7 +35,7 @@ jobs:
           git config user.name "github-actions"
           git config user.email "github-actions@github.com"
 
-          git add url.txt
+          git add url.txt domain.txt
 
           git diff --cached --quiet || (
             git commit -m "Update URL EDL"
