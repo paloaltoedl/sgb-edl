@@ -2,48 +2,54 @@ import requests
 
 BASE_URL = "https://siberguvenlik.gov.tr/api/address/index"
 
-urls = set()
 
-page = 0
-per_page = 9999
+def download(address_type, output_file):
+    addresses = set()
 
-while True:
-    print(f"Page {page} okunuyor...")
+    page = 0
+    per_page = 9999
 
-    response = requests.get(
-        BASE_URL,
-        params={
-            "type": "url",
-            "page": page,
-            "per-page": per_page
-        },
-        timeout=60
-    )
+    while True:
+        print(f"[{address_type}] Page {page} okunuyor...")
 
-    response.raise_for_status()
+        response = requests.get(
+            BASE_URL,
+            params={
+                "type": address_type,
+                "page": page,
+                "per-page": per_page
+            },
+            timeout=60
+        )
 
-    data = response.json()
+        response.raise_for_status()
 
-    models = data.get("models", [])
+        data = response.json()
 
-    if not models:
-        break
+        models = data.get("models", [])
 
-    for item in models:
-        url = item.get("url", "").strip()
+        if not models:
+            break
 
-        if url:
-            urls.add(url)
+        for item in models:
+            value = item.get("url", "").strip()
 
-    total_pages = data.get("pageCount", 1)
+            if value:
+                addresses.add(value)
 
-    if page >= total_pages - 1:
-        break
+        total_pages = data.get("pageCount", 1)
 
-    page += 1
+        if page >= total_pages - 1:
+            break
 
-print(f"Toplam URL: {len(urls)}")
+        page += 1
 
-with open("url.txt", "w", encoding="utf-8") as f:
-    for url in sorted(urls):
-        f.write(url + "\n")
+    with open(output_file, "w", encoding="utf-8") as f:
+        for value in sorted(addresses):
+            f.write(value + "\n")
+
+    print(f"[{address_type}] Toplam kayıt: {len(addresses)}")
+
+
+download("url", "url.txt")
+download("domain", "domain.txt")
