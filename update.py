@@ -55,6 +55,7 @@ from datetime import datetime, timezone
 
 url_count = download("url", "url.txt")
 domain_count = download("domain", "domain.txt")
+ip_count = download("ip", "ip.txt")
 
 with open("last_update.txt", "w", encoding="utf-8") as f:
     f.write(f"Last Update : {datetime.now(timezone.utc).strftime('%Y-%m-%d %H:%M:%S UTC')}\n")
