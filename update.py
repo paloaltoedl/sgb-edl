@@ -13,14 +13,17 @@ def download(address_type, output_file):
         print(f"[{address_type}] Page {page} okunuyor...")
 
         response = requests.get(
-            BASE_URL,
-            params={
-                "type": address_type,
-                "page": page,
-                "per-page": per_page
-            },
-            timeout=60
-        )
+    BASE_URL,
+    params={
+        "type": address_type,
+        "page": page,
+        "per-page": per_page
+    },
+    headers={
+        "User-Agent": "GitHub-Actions-EDL"
+    },
+    timeout=60
+)
 
         response.raise_for_status()
 
