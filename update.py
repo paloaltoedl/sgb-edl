@@ -53,3 +53,8 @@ def download(address_type, output_file):
 
 download("url", "url.txt")
 download("domain", "domain.txt")
+
+from datetime import datetime, timezone
+
+with open("last_update.txt", "w", encoding="utf-8") as f:
+    f.write(datetime.now(timezone.utc).strftime("%Y-%m-%d %H:%M:%S UTC"))
