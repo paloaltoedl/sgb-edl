@@ -1,12 +1,43 @@
-name: Update EDL
+name: Update URL EDL
 
 on:
   workflow_dispatch:
 
+  schedule:
+    - cron: '0 */6 * * *'
+
+permissions:
+  contents: write
+
 jobs:
-  test:
+  update:
     runs-on: ubuntu-latest
 
     steps:
-      - name: Repository hazır
-        run: echo "EDL projesi oluşturuluyor..."
+      - name: Checkout repository
+        uses: actions/checkout@v4
+
+      - name: Setup Python
+        uses: actions/setup-python@v5
+        with:
+          python-version: "3.12"
+
+      - name: Install dependencies
+        run: |
+          python -m pip install --upgrade pip
+          pip install -r requirements.txt
+
+      - name: Generate URL list
+        run: python update.py
+
+      - name: Commit changes
+        run: |
+          git config user.name "github-actions"
+          git config user.email "github-actions@github.com"
+
+          git add url.txt
+
+          git diff --cached --quiet || (
+            git commit -m "Update URL EDL"
+            git push
+          )
