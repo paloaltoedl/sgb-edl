@@ -1,0 +1,12 @@
+name: Update EDL
+
+on:
+  workflow_dispatch:
+
+jobs:
+  test:
+    runs-on: ubuntu-latest
+
+    steps:
+      - name: Repository hazır
+        run: echo "EDL projesi oluşturuluyor..."
