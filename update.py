@@ -49,6 +49,7 @@ def download(address_type, output_file):
             f.write(value + "\n")
 
     print(f"[{address_type}] Toplam kayıt: {len(addresses)}")
+    return len(addresses)
 
 
 download("url", "url.txt")
@@ -56,5 +57,10 @@ download("domain", "domain.txt")
 
 from datetime import datetime, timezone
 
+url_count = download("url", "url.txt")
+domain_count = download("domain", "domain.txt")
+
 with open("last_update.txt", "w", encoding="utf-8") as f:
-    f.write(datetime.now(timezone.utc).strftime("%Y-%m-%d %H:%M:%S UTC"))
+    f.write(f"Last Update : {datetime.now(timezone.utc).strftime('%Y-%m-%d %H:%M:%S UTC')}\n")
+    f.write(f"URL Count   : {url_count}\n")
+    f.write(f"Domain Count: {domain_count}\n")
