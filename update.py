@@ -52,12 +52,29 @@ def download(address_type, output_file):
     return len(addresses)
 
 from datetime import datetime, timezone
+from pathlib import Path
 
 url_count = download("url", "url.txt")
 domain_count = download("domain", "domain.txt")
 ip_count = download("ip", "ip.txt")
 
+line = (
+    f"{datetime.now(timezone.utc).strftime('%Y-%m-%d %H:%M:%S UTC')} | "
+    f"URL:{url_count} | "
+    f"Domain:{domain_count} | "
+    f"IP:{ip_count}\n"
+)
+
+history = []
+
+if Path("last_update.txt").exists():
+    with open("last_update.txt", "r", encoding="utf-8") as f:
+        history = f.readlines()
+
+history.append(line)
+
+# Son 10 kayıt kalsın
+history = history[-10:]
+
 with open("last_update.txt", "w", encoding="utf-8") as f:
-    f.write(f"Last Update : {datetime.now(timezone.utc).strftime('%Y-%m-%d %H:%M:%S UTC')}\n")
-    f.write(f"URL Count   : {url_count}\n")
-    f.write(f"Domain Count: {domain_count}\n")
+    f.writelines(history)
