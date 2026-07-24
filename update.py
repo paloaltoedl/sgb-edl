@@ -51,10 +51,6 @@ def download(address_type, output_file):
     print(f"[{address_type}] Toplam kayıt: {len(addresses)}")
     return len(addresses)
 
-
-download("url", "url.txt")
-download("domain", "domain.txt")
-
 from datetime import datetime, timezone
 
 url_count = download("url", "url.txt")
