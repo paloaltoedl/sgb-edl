@@ -13,11 +13,11 @@ def download(address_type, output_file):
         print(f"[{address_type}] Page {page} okunuyor...")
 
         response = requests.get(
-    BASE_URL,
-    params={
-        "type": address_type,
-        "page": page,
-        "per-page": per_page
+        BASE_URL,
+        params={
+            "type": address_type,
+            "page": page,
+            "per-page": per_page
     },
     headers={
         "User-Agent": "GitHub-Actions-EDL"
@@ -39,7 +39,7 @@ def download(address_type, output_file):
 
         if not models:
             break
-print(f"[{address_type}] İlk kayıt: {models[0]['url']}")
+        print(f"[{address_type}] İlk kayıt: {models[0]['url']}")
         for item in models:
             value = item.get("url", "").strip()
 
