@@ -39,7 +39,7 @@ def download(address_type, output_file):
 
         if not models:
             break
-
+print(f"[{address_type}] İlk kayıt: {models[0]['url']}")
         for item in models:
             value = item.get("url", "").strip()
 
