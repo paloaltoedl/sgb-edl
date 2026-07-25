@@ -6,7 +6,7 @@ BASE_URL = "https://siberguvenlik.gov.tr/api/address/index"
 def download(address_type, output_file):
     addresses = set()
 
-    page = 0
+    page = 1
     per_page = 9999
 
     while True:
@@ -48,7 +48,7 @@ def download(address_type, output_file):
 
         total_pages = data.get("pageCount", 1)
 
-        if page >= total_pages - 1:
+        if page >= total_pages:
             break
 
         page += 1
