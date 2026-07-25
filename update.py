@@ -30,7 +30,12 @@ def download(address_type, output_file):
         data = response.json()
 
         models = data.get("models", [])
-        print(f"[{address_type}] API count: {len(models)}")
+        print(
+    f"[{address_type}] page={page} "
+    f"count={data.get('count')} "
+    f"totalCount={data.get('totalCount')} "
+    f"pageCount={data.get('pageCount')}"
+)
 
         if not models:
             break
