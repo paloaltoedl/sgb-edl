@@ -66173,6 +66173,7 @@ bedavapakett.online
 bedavapanel.com
 bedavapanel.org
 bedavapanel.site
+bedavapanelimizyeniden.gt.tc
 bedavasorgu.com
 bedavasorgu.org
 bedavasorgula.com
@@ -305025,7 +305026,6 @@ onlineyapicepavanjtajbasvurusu.vercel.app
 onlineyapicepbasvuruular.vercel.app
 onlineyapigiris.com
 onlineyapikredi-tr.com
-onlineyapikredi.net
 onlineyapikredi.online
 onlineyapikredibankasi.com
 onlineyapikredisubesi.com
@@ -369849,6 +369849,7 @@ sorgupaneli.live
 sorgupaneli.me
 sorgupaneli.online
 sorgupaneli.org
+sorgupaneli.ph
 sorgupaneli.pw
 sorgupaneli.shop
 sorgupaneli.site
@@ -410794,6 +410795,7 @@ uyapuzlasmasorgusuportali.com
 uyapuzlasmavedosyasorgu.com
 uyapuzlastirma.org
 uyapvatandas-giris.com
+uyapvatandas-sorgu.com
 uyapvatandas.com.tr
 uyapvatandas.net
 uyapvatandasgiris.com
@@ -441823,7 +441825,6 @@ xn--yapkrd-gwa80a9i.com
 xn--yapkrd-r9ad2519.com
 xn--yapkrd-t3a3qe.com
 xn--yapkrdi-07a1y.com
-xn--yapkrdi-1ya12b.com
 xn--yapkrdi-h8a3w.com
 xn--yapkrdi-iza58a.com
 xn--yapkrdi-tfb6519d.com
@@ -445269,7 +445270,6 @@ yapikredibireysel-world.com
 yapikredibireysel.info
 yapikredibireysel.ml
 yapikredibireysel.net
-yapikredibireysel.org
 yapikredibireysel.website
 yapikredibireysel2018.com
 yapikredibireyselbankacilik.com
