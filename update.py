@@ -30,6 +30,7 @@ def download(address_type, output_file):
         data = response.json()
 
         models = data.get("models", [])
+        print(f"[{address_type}] API count: {len(models)}")
 
         if not models:
             break
@@ -51,7 +52,7 @@ def download(address_type, output_file):
         for value in sorted(addresses):
             f.write(value + "\n")
 
-    print(f"[{address_type}] Toplam kayıt: {len(addresses)}")
+    print(f"[{address_type}] Unique kayıt: {len(addresses)}")
     return len(addresses)
 
 from datetime import datetime, timezone
