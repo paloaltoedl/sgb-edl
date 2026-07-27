@@ -8,6 +8,7 @@ This repository automatically generates Palo Alto External Dynamic Lists (EDL) u
 |------|-------------|
 | `url.txt` | Malicious URL list |
 | `domain.txt` | Malicious Domain list |
+| `ip.txt` | Malicious IP list |
 | `last_update.txt` | Last update time and record counts |
 
 ## Update Schedule
@@ -21,6 +22,9 @@ https://paloaltoedl.github.io/sgb-edl/url.txt
 
 ### Domain EDL
 https://paloaltoedl.github.io/sgb-edl/domain.txt
+
+### IP EDL
+https://paloaltoedl.github.io/sgb-edl/url.txt
 
 ### Status
 https://paloaltoedl.github.io/sgb-edl/last_update.txt
