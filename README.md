@@ -24,7 +24,7 @@ https://paloaltoedl.github.io/sgb-edl/url.txt
 https://paloaltoedl.github.io/sgb-edl/domain.txt
 
 ### IP EDL
-https://paloaltoedl.github.io/sgb-edl/url.txt
+https://paloaltoedl.github.io/sgb-edl/ip.txt
 
 ### Status
 https://paloaltoedl.github.io/sgb-edl/last_update.txt
