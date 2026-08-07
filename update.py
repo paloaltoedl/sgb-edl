@@ -1,3 +1,4 @@
+import time
 import requests
 
 BASE_URL = "https://siberguvenlik.gov.tr/api/address/index"
@@ -12,22 +13,35 @@ def download(address_type, output_file):
     while True:
         print(f"[{address_type}] Page {page} okunuyor...")
 
+        data = None
+
+for attempt in range(5):
+    try:
         response = requests.get(
-        BASE_URL,
-        params={
-            "type": address_type,
-            "page": page,
-            "per-page": per_page
-    },
-    headers={
-        "User-Agent": "GitHub-Actions-EDL"
-    },
-    timeout=60
-)
+            BASE_URL,
+            params={
+                "type": address_type,
+                "page": page,
+                "per-page": per_page
+            },
+            headers={
+                "User-Agent": "GitHub-Actions-EDL"
+            },
+            timeout=60
+        )
 
         response.raise_for_status()
 
         data = response.json()
+        break
+
+    except requests.RequestException as e:
+        print(f"[{address_type}] Sayfa {page} hata: {e}")
+        print(f"[{address_type}] 15 sn bekleniyor... ({attempt+1}/5)")
+        time.sleep(15)
+
+if data is None:
+    raise Exception(f"{address_type} page {page} alınamadı.")
 
         models = data.get("models", [])
         print(
