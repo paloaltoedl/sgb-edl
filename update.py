@@ -17,6 +17,10 @@ def download(address_type, output_file):
 
 for attempt in range(5):
     try:
+        data = None
+
+for attempt in range(5):
+    try:
         response = requests.get(
             BASE_URL,
             params={
@@ -31,8 +35,16 @@ for attempt in range(5):
         )
 
         response.raise_for_status()
-
         data = response.json()
+        break
+
+    except requests.RequestException as e:
+        print(f"[{address_type}] Sayfa {page} hata: {e}")
+        print(f"[{address_type}] 15 saniye sonra tekrar denenecek... ({attempt+1}/5)")
+        time.sleep(15)
+
+if data is None:
+    raise Exception(f"{address_type} page {page} alınamadı.")
         break
 
     except requests.RequestException as e:
