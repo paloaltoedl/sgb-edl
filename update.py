@@ -2,8 +2,6 @@ import time
 import requests
 
 BASE_URL = "https://siberguvenlik.gov.tr/api/address/index"
-
-
 def download(address_type, output_file):
     addresses = set()
 
@@ -15,60 +13,49 @@ def download(address_type, output_file):
 
         data = None
 
-for attempt in range(5):
-    try:
-        data = None
+        for attempt in range(5):
+            try:
+                response = requests.get(
+                    BASE_URL,
+                    params={
+                        "type": address_type,
+                        "page": page,
+                        "per-page": per_page
+                    },
+                    headers={
+                        "User-Agent": "GitHub-Actions-EDL"
+                    },
+                    timeout=60
+                )
 
-for attempt in range(5):
-    try:
-        response = requests.get(
-            BASE_URL,
-            params={
-                "type": address_type,
-                "page": page,
-                "per-page": per_page
-            },
-            headers={
-                "User-Agent": "GitHub-Actions-EDL"
-            },
-            timeout=60
-        )
+                response.raise_for_status()
+                data = response.json()
+                break
 
-        response.raise_for_status()
-        data = response.json()
-        break
+            except requests.RequestException as e:
+                print(f"[{address_type}] Sayfa {page} hata: {e}")
+                print(f"[{address_type}] 15 saniye sonra tekrar denenecek... ({attempt+1}/5)")
+                time.sleep(15)
 
-    except requests.RequestException as e:
-        print(f"[{address_type}] Sayfa {page} hata: {e}")
-        print(f"[{address_type}] 15 saniye sonra tekrar denenecek... ({attempt+1}/5)")
-        time.sleep(15)
-
-if data is None:
-    raise Exception(f"{address_type} page {page} alınamadı.")
-        break
-
-    except requests.RequestException as e:
-        print(f"[{address_type}] Sayfa {page} hata: {e}")
-        print(f"[{address_type}] 15 sn bekleniyor... ({attempt+1}/5)")
-        time.sleep(15)
-
-if data is None:
-    raise Exception(f"{address_type} page {page} alınamadı.")
+        if data is None:
+            raise Exception(f"{address_type} page {page} alınamadı.")
 
         models = data.get("models", [])
+
         print(
-    f"[{address_type}] page={page} "
-    f"count={data.get('count')} "
-    f"totalCount={data.get('totalCount')} "
-    f"pageCount={data.get('pageCount')}"
-)
+            f"[{address_type}] page={page} "
+            f"count={data.get('count')} "
+            f"totalCount={data.get('totalCount')} "
+            f"pageCount={data.get('pageCount')}"
+        )
 
         if not models:
             break
+
         print(f"[{address_type}] İlk kayıt: {models[0]['url']}")
+
         for item in models:
             value = item.get("url", "").strip()
-
             if value:
                 addresses.add(value)
 
