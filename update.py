@@ -1,7 +1,11 @@
 import time
 import requests
+from datetime import datetime, timezone
+from pathlib import Path
 
 BASE_URL = "https://siberguvenlik.gov.tr/api/address/index"
+
+
 def download(address_type, output_file):
     addresses = set()
 
@@ -20,12 +24,12 @@ def download(address_type, output_file):
                     params={
                         "type": address_type,
                         "page": page,
-                        "per-page": per_page
+                        "per-page": per_page,
                     },
                     headers={
                         "User-Agent": "GitHub-Actions-EDL"
                     },
-                    timeout=60
+                    timeout=60,
                 )
 
                 response.raise_for_status()
@@ -34,7 +38,7 @@ def download(address_type, output_file):
 
             except requests.RequestException as e:
                 print(f"[{address_type}] Sayfa {page} hata: {e}")
-                print(f"[{address_type}] 15 saniye sonra tekrar denenecek... ({attempt+1}/5)")
+                print(f"[{address_type}] 15 saniye sonra tekrar denenecek... ({attempt + 1}/5)")
                 time.sleep(15)
 
         if data is None:
@@ -73,8 +77,6 @@ def download(address_type, output_file):
     print(f"[{address_type}] Unique kayıt: {len(addresses)}")
     return len(addresses)
 
-from datetime import datetime, timezone
-from pathlib import Path
 
 url_count = download("url", "url.txt")
 domain_count = download("domain", "domain.txt")
@@ -94,8 +96,6 @@ if Path("last_update.txt").exists():
         history = f.readlines()
 
 history.append(line)
-
-# Son 10 kayıt kalsın
 history = history[-10:]
 
 with open("last_update.txt", "w", encoding="utf-8") as f:
