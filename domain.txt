@@ -2053,6 +2053,7 @@
 101-den-firsatlariniz-kacmasin.sbs
 101-efsane.shop
 101-eozel.xyz
+101-extra-da-sadece-bugune-ozel-firsat-mobilde-tr.indirimsepette.online
 101-extra-ozel-online-siparis-bugune-ozel.mooo.com
 101-eylulgecesi13.com
 101-eylulgecesi13.net
@@ -18187,6 +18188,7 @@
 6yfer5pmr3hgpin7.ddns.net
 6ygqi3en.duckdns.org
 6yil-enpara.com
+6yil-enpara.ph
 6yil-etkinlikleri.com
 6yilaozelaktarimportalsorgubasvuru-com.tk
 6yilaozeldagitimlarsorgulaparibudan-tr.tk
@@ -69547,6 +69549,7 @@ bilgilendirme-kararduyurusutr.com
 bilgilendirme-merkezi.sbs
 bilgilendirme-platformu.com
 bilgilendirme-resmiodemelerhemengiris.site
+bilgilendirme-shop.online
 bilgilendirme-tr.online
 bilgilendirme-trxx.xyz
 bilgilendirmeamaclikurulansitemizdir.eth3.me
@@ -102557,6 +102560,7 @@ claronqual.gruposenhordobonfim.org
 clarvix.sbs
 clas-c7.biz
 clasare.com.tr
+clascicek.com
 clases.pastorluiscastro.com
 clashbenevolent.top
 clashshrewd.top
@@ -159364,12 +159368,14 @@ facebook--com.ml
 facebook--login-security.ph
 facebook-change-password.com
 facebook-checkpoint.ddns.net
+facebook-confirm-login.com.ph
 facebook-de.ddns.net
 facebook-giris.cf
 facebook-giris.ml
 facebook-google.top
 facebook-help-lnstagram.cf
 facebook-helper.xyz
+facebook-login-guide.com.ph
 facebook-login-login-extra.ph
 facebook-pictures.com
 facebook-problems103.ml
@@ -159401,6 +159407,21 @@ facebookismetanow.com
 facebooklog.duckdns.org
 facebooklogin-facebook.com
 facebookloginapponline.ph
+facebookloginlabd.com.ph
+facebookloginlabe.com.ph
+facebookloginlabe.net.ph
+facebookloginlabg.com.ph
+facebookloginlabg.net.ph
+facebookloginlal.com.ph
+facebookloginlal.net.ph
+facebookloginlam.com.ph
+facebookloginlan.com.ph
+facebookloginlan.net.ph
+facebookloginlawyer.com.ph
+facebookloginonlinelegal.com.ph
+facebookloginparty.com.ph
+facebookloginstable.com.ph
+facebookloginuser.com.ph
 facebookmap.top
 facebookmoney.world
 facebooknavigation.com
@@ -210583,6 +210604,7 @@ hmnislemnktans.net
 hmnislemnktbas.net
 hmnislemnktsans.net
 hmnislemnoktnasn.net
+hmnislemntkas.net
 hmnislemonlniesonuc.net
 hmnislmbkntans.net
 hmnislmknat.net
@@ -221035,6 +221057,7 @@ ilkdenevimtokim.org
 ilkehaberajanss.com
 ilkemburs.net
 ilkemedya.com
+ilkev-basvurulari-1.sbs
 ilkev-katilim.digital
 ilkevbasvurtokl.info
 ilkevbasvurtokl.online
@@ -253193,6 +253216,7 @@ kisiselwarrantybb.xyz
 kisisevgi.org
 kisisorgu.blogspot.com
 kisitkaldir.pro
+kisitkaldirmalinkibasvuru.duckdns.org
 kisiye-ozel-kampanyalar.com
 kisiyeozel.site
 kisiyeozelkampanya.com
