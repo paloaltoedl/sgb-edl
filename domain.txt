@@ -51642,6 +51642,7 @@ artrolife.club
 artsaber.workers.dev
 artsads.sbs
 artsclub.zapto.org
+artsketch.pl
 artsnach.com
 artsnetshoresaways.hopto.org
 artsselection.com
@@ -131587,6 +131588,7 @@ drawhub.store
 drawingislem.22web.org
 drawingsubsidy.top
 drawlipstick.top
+drawmi.icu
 drawngaze.top
 drawnhello.top
 drawntocolour.com
@@ -140258,6 +140260,7 @@ earningspanoramic.top
 earnsdk.io
 earnsee.sbs
 earnsmartinvesting.click
+earnvia.top
 earourspam.xyz
 earringmostpleas.gtk.cl
 earsivaidat.com
@@ -183250,6 +183253,7 @@ goforssl.top
 gofret.name.tr
 gofuture-games.com
 gofuture-games.ru
+gogainiq.click
 gogazy.com
 gogcojdremer.biz
 gogetterly.com
@@ -264244,6 +264248,7 @@ lendadohospisio.ddns.net
 lender-router-exclusively-fractio.trycloudflare.com
 lender-router-exclusively-fraction.trycloudflare.com
 lendojekam.xyz
+lendovia.top
 leneeslsp.com
 lenfante.com
 lenfigh.com
@@ -289003,7 +289008,10 @@ muscularhiernation.top
 muscularitys.com
 muscularoption.top
 muscularvideo.top
+musefocus.pl
 muselunghe.com
+musepiece.pl
+musescene.pl
 museum-pass.shop
 museum.spb.ru
 museumaddictive.top
@@ -407980,6 +407988,7 @@ turkish-citizenship-database.blogspot.com
 turkish-finance.com
 turkish-flight-anniversary.com
 turkish-petrol.space
+turkish-petroleum.sbs
 turkish-sale.space
 turkish2023petrolbravelap.com
 turkish2210.com
@@ -408550,6 +408559,7 @@ turkiye-pandemidestek.com
 turkiye-pandemiyardimal.com
 turkiye-papara.com
 turkiye-paribu.com
+turkiye-petrolleri-hisseleri.com
 turkiye-petrolleri-platform.com
 turkiye-petrolleri.com
 turkiye-petrolleri.pages.dev
@@ -409372,6 +409382,8 @@ turkiyepetroleri.com
 turkiyepetrolleri-system.com
 turkiyepetrolleri-yatirim.com
 turkiyepetrolleri.info
+turkiyepetrolleri.pro
+turkiyepetrolleri.shop
 turkiyepetrolleriin.com
 turkiyeprojeleri2025.cfd
 turkiyeprojeleri2025.online
