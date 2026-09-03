@@ -11742,6 +11742,7 @@
 321123.mcdir.ru
 321189874645115.net
 3212221112445479890.duckdns.org
+3212221112445479892.duckdns.org
 32123123132131322123.space
 321312111.cloud
 3213213-123.duckdns.org
@@ -26026,6 +26027,7 @@ a1b2c3f54.xyz
 a1b2c3f55.xyz
 a1b40e25.ns-u629df.shop
 a1capital.info
+a1capitalmenkulonline.com
 a1dat1adehizmedi.ddns.net
 a1datkapinizda.com
 a1djaw2ma.click
@@ -77701,6 +77703,7 @@ bireyselsiigorta.site
 bireyselsikayyetvar.ml
 bireyselsiparis.com
 bireyselsiparis.com.tr
+bireyselsiparisin.online
 bireyselsizacikdenizv2denizbank.co.vu
 bireyselsok.net.tr
 bireyselsube-acikdenizv2denizbank.com
@@ -91327,6 +91330,7 @@ burdafirsat.com
 burdafrsatlar.cfd
 burdafrsatlar.tr
 burdafrsatlar.xyz
+burdagecelerziyaneder.com
 burdageldlsimdn.shop
 burdageldlsimdn.xyz
 burdagulduk.com
@@ -104693,6 +104697,7 @@ cnr09p8xo.duckdns.org
 cnrdn.com
 cnrhgsyt.epizy.com
 cnrpaslceas.freeddns.org
+cns-fl.com
 cnsmportal.egnyte.com
 cnt-blackrock.geekgalaxy.com
 cntadvertising.com
@@ -274510,6 +274515,7 @@ maliyeodeme.com
 maliyeodemehizmeti.com
 maliyeportal.com
 maliyeportal.net
+maliyeportal.org
 maliyeportaldosya.com
 maliyeportaluyap.com
 maliyerandevu.com
@@ -322475,6 +322481,7 @@ pazarama.satiskapida.com
 pazarama.satiskontrol.com
 pazarama.siparisguvende.com
 pazarama.siparisim-onay-1923.com
+pazarama.siparisislemleri.com
 pazarama.siparislerimguvende.com
 pazarama.siparislerkapida.com
 pazarama.siparislerkapimda.com
@@ -353821,6 +353828,7 @@ sahibinden.bireysel-ilan.com
 sahibinden.bireysel-odeme.com
 sahibinden.bireyselhizmet.com.tr
 sahibinden.bireyselilanim.com.tr
+sahibinden.bireyselsiparisin.online
 sahibinden.bolfirsatlarzamani.com
 sahibinden.bond
 sahibinden.business
@@ -370197,6 +370205,7 @@ siparisinsepette.com
 siparisinsepettinde.online
 siparisinzsepetinde.click
 siparisipay.online
+siparisislemleri.com
 sipariskapida.xcrowni.com
 sipariskapinateslim.com
 sipariskapinda.xyz
