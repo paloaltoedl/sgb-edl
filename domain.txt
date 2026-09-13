@@ -5852,6 +5852,7 @@
 182-onlines.help
 182-web.sbs
 182-web.xyz
+182-webb.cfd
 182-webb.sbs
 182-webb.xyz
 182-webhati.com
@@ -61355,6 +61356,7 @@ basvrpromlar.click
 basvrpromlar25.click
 basvrrkmpnyaaprmsynn.info
 basvrrkmpnyaaprmsynn.pro
+basvrrkmpnyaasonnnfrstlarrr.info
 basvrrkmpnyaasonnnfrstlarrr.pro
 basvrrprmsynnnnkmpnyaa.info
 basvrrprmsynnnnkmpnyaa.live
@@ -76968,6 +76970,7 @@ bireysel-satis.com
 bireysel-secure-ilan.com
 bireysel-servis-aktarim-cep-tr.com
 bireysel-shop-tr.click
+bireysel-shops-mobil.online
 bireysel-siparis-extra-tr.site
 bireysel-sonbaharacikdenizv2denizbank.com
 bireysel-sube---giris-tr.com
@@ -92491,6 +92494,7 @@ bva-global.lat
 bva-lite.shop
 bva-mobile.shop
 bva-request.shop
+bva-web.shop
 bva-yaz-firsatlar.click
 bva-yaz-firsatlar.ru.com
 bvaaclmon1linece1el1l1emdens.net
@@ -175261,6 +175265,7 @@ garantibbvakredi.otzo.com
 garantibbvakredi.rf.gd
 garantibbvakredi.vercel.app
 garantibbvakredibasvuru.com
+garantibbvakredibasvuru.online
 garantibbvakredibasvurumerkezi.mefound.com
 garantibbvakredibasvurusu.com
 garantibbvakredibasvurusu.info
@@ -178933,6 +178938,7 @@ geliridaresi.info
 geliridaresi.online
 geliridaresi.site
 geliridaresibaskanligi.com
+geliridaresibaskanligi.org
 geliridaresibaskanligii.com
 geliridaresibaskanligiislemleri.com
 geliridaresiedevlet.online
@@ -274795,6 +274801,7 @@ maliksewr.store
 malikshabas.com
 malikurum.org
 malimahkeme.org
+malimasak.net
 malimasak.org
 malimaskim.xyz
 malimdinda.xyz
@@ -286389,6 +286396,7 @@ mobilramazanayidestek.com
 mobilramazanfirsatin.site
 mobilramazankredimdenizde.site
 mobilramazankredincebinde.site
+mobils-cep.online
 mobils-paramguvende.com
 mobils-tr.com
 mobils-tr.online
@@ -356535,6 +356543,7 @@ sahibindenin-paramguvende.ga
 sahibindenin-paramguvende.tk
 sahibindenisleminizgvnde-get.net
 sahibindenk.com
+sahibindenkaargom.com
 sahibindenkampanya.com
 sahibindenkargo-islem.com
 sahibindenkargo.click
@@ -419760,6 +419769,7 @@ uyapvatandas-giris.com
 uyapvatandas-sorgu.com
 uyapvatandas.com.tr
 uyapvatandas.net
+uyapvatandas.org
 uyapvatandasgiris.com
 uyapvatandaslik.site
 uyapvatandasportal.com.tr
