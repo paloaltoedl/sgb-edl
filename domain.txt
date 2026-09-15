@@ -2084,6 +2084,7 @@
 101-extra-sadece-bugune-ozel-sepette-mobil-indirimleri-tr.buy
 101-extra-sadece-mobile-ozel-online-sepet-indirimleri-mobil-tr.ucuzshop.online
 101-extra-sadece-online-ozel-alisveris-mobil-extra-shop-tr.bilgi-mobil-tr.online
+101-extra-sadece-online-ozel-mobil-alisveris-indirimleri-sepete.ekle-tr.online
 101-extra-sadece-online-ozel-mobil-indirim-sepeti-tr.services
 101-extra-sadece-online-sepet-ozel-indirim-shop-mobilde-tr.cepsel-tr.online
 101-eylulgecesi13.com
@@ -3528,6 +3529,8 @@
 11114141414.duckdns.org
 11114343-111.duckdns.org
 111194999373845dnz.duckdns.org
+111194999373845dnz.webredirect.org
+1111999937384gr.duckdns.org
 111212121212121.duckdns.org
 111222332435647.com.tr
 1112332210121.duckdns.org
@@ -17357,6 +17360,7 @@
 643vlakf49dy.club
 6441056b613c32a9.dwnlld.info
 644359675.goloser.ru
+6444s.site
 64512412412817355731.biz
 64512765.cloud
 64513.site
@@ -56610,6 +56614,7 @@ awdenizbank.com
 awdsne.dns.navy
 awdwajawdjwadk.com
 awdwdad.click
+awdwsiskooadasd.xyz
 awe232-service-app.com
 awearrogant.top
 awebcommerce.com
@@ -63542,6 +63547,7 @@ basvurularbnntrgiris.online
 basvurularburadan.me
 basvurularburadan.sbs
 basvurularburadan.xyz
+basvurularburdan.cfd
 basvurulardevamediyo.cloud
 basvurulardevamportal.duckdns.org
 basvurularebasvuru-resmi-gov-tr.info
@@ -63787,6 +63793,7 @@ basvurumerkezibbva.static.domains
 basvurumerkeziiadesistemi.com
 basvurumerkezim.com
 basvurumerkezim.site
+basvurumerkezim2026.cfd
 basvurumerkezinden.org
 basvurumerkezindesinizz.com
 basvurumerkezinizbbva.com
@@ -65296,6 +65303,8 @@ baykaryatirimci.com
 baykaryatirimco.com
 baykaryatirimfon.com
 baykaryatirimprogrami.com
+baykaryatirimprogrami.digital
+baykaryatirimprogrami.xyz
 baykaryatrm.com
 baykaryech.com
 baykasrtech.com
@@ -98134,6 +98143,7 @@ cebtekampanyan.com
 cebtekampanyaniz.com
 cebtekimobilplatform.sbs
 cebtemobilim.com
+cebteteb-bireysel-emekli.my-homeip.de
 cebteteb-com.my-homeip.de
 cebteteb-mobil-giris.tk
 cebteteb-tr-bonus.com
@@ -100053,6 +100063,7 @@ ceptetebkurulum.com
 ceptetebl.com
 cepteteble.com
 ceptetebli-basvurum.my-homeip.de
+ceptetebli-emekliye.my-homeip.de
 ceptetebli-kampanya.my-homeip.de
 ceptetebli.com
 cepteteblim.com
@@ -148450,6 +148461,7 @@ eklampa.com
 eklcrl5.duckdns.org
 ekle-kampanya-bizde-var-haydi-9000tl-com.cf
 ekle-kampanya-bizde-var-haydi-com.cf
+ekle-tr.online
 eklenti.org
 eklentinizdenfirsat-getirenanlar.net
 eklentinizdenfirsat-getirenanlarrr.net
@@ -234245,6 +234257,7 @@ ist1sav.com
 ist2krtanabunapalm.duckdns.org
 ist33m31.xyz
 ist34-belbim.net
+ist343434.xyz
 ist4-nbullkrrtgngflow.net
 ist4nb1lvza.net
 ist4nbulb4kiy3cm.net
@@ -234494,6 +234507,7 @@ istanbul-kartim.digital
 istanbul-kartls.blogspot.com
 istanbul-kartt-dolum.net
 istanbul-kartt.net
+istanbul-kiralikkonut.vercel.app
 istanbul-kolayca-yukle.online
 istanbul-lkart.blogspot.com
 istanbul-lojistik.shop
@@ -234616,6 +234630,7 @@ istanbulbelgim.uk
 istanbulbelgim.xyz
 istanbulbelgimcann.xyz
 istanbulbelgimkart.xyz
+istanbulbelgimkartt.xyz
 istanbulbelgimkarttt.xyz
 istanbulbelgimkartttcann.xyz
 istanbulbelgimlkart.xyz
@@ -235483,6 +235498,7 @@ istanhemenp.net
 istanibkllkart.com
 istankart.xyz
 istankarttt.xyz
+istankartttcan.xyz
 istankbabba.sbs
 istankxrtxs.net
 istanlbedava.net
@@ -254387,6 +254403,7 @@ kgm.azqnvg.cc
 kgm.byyjej.help
 kgm.cdbtrq.online
 kgm.cwptmz.help
+kgm.fkdmv.top
 kgm.gofmsz.help
 kgm.govtek.help
 kgm.govtt.site
@@ -258384,6 +258401,7 @@ kmsporglz.com
 kmsrgalmayapxdusls.duckdns.org
 kmsrgcwzs.net
 kmsrglama.benvokallermelodynyaptm.com
+kmsrglamahizmetlerimiz.web.app
 kmsrglamnzsznle.click
 kmsrgldklarmizdayz.gleeze.com
 kmsrgllkh.kmasxnsxanwer.click
@@ -263612,6 +263630,7 @@ kuveytturk.ml
 kuveytturk.mobi
 kuveytturk.mobil-firsatlar.com.tr
 kuveytturk.online
+kuveytturk.sbs
 kuveytturk.site
 kuveytturk.teksayfa.com.tr
 kuveytturk.top
@@ -279538,6 +279557,7 @@ mekorr.duckdns.org
 mekosaksa.xyz
 mekras.ru
 meksa-yatirim.com
+meksayatirimtr.com
 meksikadasonhasereciler.site
 meksjlsbs.net
 mektamasklogin.webflow.io
@@ -458171,6 +458191,7 @@ yenibasvurular.net
 yenibasvurular.online
 yenibasvurular2025.blogdns.org
 yenibasvurum02.net
+yenibasvurumerkezi.cfd
 yenibasvurunuz2.store
 yenibasvurushibdogehediyepaributeknolojisi-tr.tk
 yenibasvurusorgulamafinas.com
@@ -467150,6 +467171,8 @@ ziraatbankasionlinemobil.com
 ziraatbankasionlinesube.com
 ziraatbankasionlinesubesi.com
 ziraatbankasiozel.com
+ziraatbankasiprojesi-click.pages.dev
+ziraatbankasiprojesi.click
 ziraatbankasiramazanodemesi.com
 ziraatbankasireliance.e-bnk.online
 ziraatbankasislerimleriniz.com
@@ -468087,6 +468110,7 @@ ziraatthediyemm.com
 ziraattilkibasvuru.gtxcdn-uix.pw
 ziraattkazan.net
 ziraattkonline.com
+ziraattli.sbs
 ziraattm0billbsvruemekli.duckdns.org
 ziraattm0billbsvruemekliiii.duckdns.org
 ziraattm0billkrdibsvruemekli.ip-ddns.com
@@ -468264,12 +468288,15 @@ ziratinternetbankasi.com
 ziratinternette.cfd
 ziratisim.cfd
 ziratkampanya.sbs
+ziratkampanyadan.sbs
+ziratkampanyasi.sbs
 ziratkatilim.com
 ziratkatilim.xyz
 ziratkrdsorgularbilgi.com.tr
 ziratkredizirat.click
 ziratleekazan.com
 ziratlekazan.com
+ziratligunler.sbs
 ziratlihediye.com
 ziratlihediyeler.online
 ziratlihediyelerinizcok.com
