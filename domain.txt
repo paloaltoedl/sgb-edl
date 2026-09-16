@@ -2075,6 +2075,7 @@
 101-extra-sadece-bugune-ozel-indirim-sepeti-online-tr-cep.alisverisgo.online
 101-extra-sadece-bugune-ozel-indirimli-sepet-mobilde-tr.sepetextra-tr.online
 101-extra-sadece-bugune-ozel-mobil-alisveris-cep-tr.cepteal-tr.online
+101-extra-sadece-bugune-ozel-mobil-alisveris-indirimleri-tr.marketsepeti.online
 101-extra-sadece-bugune-ozel-mobil-alisveris-indirimleri-tr.sepetra-tr.online
 101-extra-sadece-bugune-ozel-mobil-alisveris-sepet-tr.max-shop-tr.online
 101-extra-sadece-bugune-ozel-mobil-firsat-indirimleri-tr.trendceps.online
@@ -28674,6 +28675,7 @@ acik-deniz-hizmeti.com.tr
 acik-deniz-hizmeti.ml
 acik-deniz-hizmetleri.cf
 acik-deniz-islemlerim.com
+acik-deniz-online.my-homeip.de
 acik-deniz-onlinegiris.cf
 acik-deniz-onlinegiris.ga
 acik-deniz-onlinegiris.ml
@@ -42474,6 +42476,7 @@ aldin-mart-aldin-anlik.net
 aldin-nisan-ucuz.com.tr
 aldin-nisanlarda-ucuz.com
 aldin-onlineozel-aldinaldin.site
+aldin-yadaaldin.com
 aldin.juzakb.com
 aldin1.space
 aldin101firsata101.xyz
@@ -61533,6 +61536,7 @@ basvruonalinne.cfd
 basvruonayi.pro
 basvrurrprsmynnkmonyaaa.info
 basvrurrprsmynnkmonyaaa.pro
+basvrurrrpmrsmynnnkmphyaaa.pro
 basvrusasnaaid.com
 basvrusorgulama-acikdenz.com
 basvrutcrnrnbnnrc.com
@@ -63639,6 +63643,8 @@ basvurularinzzz.com
 basvurularisceponlinesubem.net
 basvurulariyap.com
 basvurulariyap.net
+basvurulariyapinkacirmayin2026.cfd
+basvurulariyapinkacirmayinekim.cfd
 basvurulariyaptirin.blogspot.com
 basvurulariyonet.com
 basvurularkabulceteleem.com
@@ -166171,6 +166177,7 @@ firsat-subemobilgiris.com
 firsat-subende.com
 firsat-subeonline.lat
 firsat-taksitle.duckdns.org
+firsat-tebde.my-homeip.de
 firsat-teklifleri.net.tr
 firsat-tkelfibru-brasdsa.store
 firsat-tum-hafta-haftasi-boyunca-kampanya-a101-indirim-61.a1o1nlneee.ru.com
@@ -384492,6 +384499,7 @@ sube-garenta-online.online
 sube-garenta-online.store
 sube-garente.my
 sube-garente.sbs
+sube-garenti.my-homeip.de
 sube-geranti-bireysel.my-homeip.com
 sube-gerantide.my-homeip.net
 sube-giris-teb-tr.com
@@ -388576,6 +388584,7 @@ t-c-ziraatbank.com
 t-cmbbdvletia-desi.com
 t-cziraat.com
 t-dtinc.com
+t-e-b-ayricaliklar.my-homeip.de
 t-e-b-ayricalikli.my-homeip.de
 t-e-b-basvuru-giris.com
 t-e-b-basvuru-t-e-b-online-islem.my-homeip.de
@@ -393302,6 +393311,7 @@ tebcomtrbayramkredinizonayda.co.vu
 tebcomtrkredibasvurulari.co.vu
 tebde-cep-firsatin.net
 tebde-emekliye.my-homeip.de
+tebde-firsat.my-homeip.de
 tebdeburdabasvuru.my-homeip.de
 tebdecekilisvar.tk
 tebdecep.my-homeip.de
@@ -412770,6 +412780,7 @@ turkiyefinans.club
 turkiyefinans.de
 turkiyefinans.ga
 turkiyefinans.getcorpeo.com
+turkiyefinans.my-homeip.de
 turkiyefinans.pzbsin.com
 turkiyefinans.tk
 turkiyefinans.work
@@ -443949,6 +443960,7 @@ www-teb-com-tr-internet-islemleri.my-homeip.de
 www-teb-com-tr-internet-subesi.my-homeip.de
 www-teb-com-tr-islem-merkezi.my-homeip.de
 www-teb-com-tr-mobil-sayfa.my-homeip.de
+www-teb-com-tr-musteri-girisi.my-homeip.de
 www-teb-com-tr-onayli-islem.my-homeip.de
 www-teb-com-tr-promosyon-basvuru.my-homeip.de
 www-teb-com-tr-promosyon-emekli.my-homeip.de
