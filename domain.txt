@@ -2083,6 +2083,7 @@
 101-extra-mobil-sadece-online-ozel-sepette-indirim-tr.web-sepet.online
 101-extra-mobile-ozel-sadece-online-alisveris-indirimi-tr.sepets.online
 101-extra-ozel-online-siparis-bugune-ozel.mooo.com
+101-extra-sadece-bugune-ozel-alisveris-indirimleri-cepte-tr.bilgi-al.online
 101-extra-sadece-bugune-ozel-alisveris-indirimleri-cepte-tr.e-shop-tr.online
 101-extra-sadece-bugune-ozel-alisveris-sepet-indirimleri-tr.shop
 101-extra-sadece-bugune-ozel-alisveris-sepet-indirimleri-tr.shop-mobil-cep.online
@@ -32440,6 +32441,7 @@ adaybasvuru.adayislemleri.sbs
 adaybasvuru.net
 adaybasvuru.online
 adaybasvuru.org
+adaybasvuruislemleri.info
 adaybasvurunuz.sbs
 adaybasvurunuzx.sbs
 adaybasvurunz.com
@@ -50353,6 +50355,7 @@ aracmuayeneislem.com
 aracmuayeneislemi.com
 aracmuayeneislemleri.com
 aracmuayeneislemleri.sbs
+aracmuayeneislemmler.com
 aracmuayeneistasyon.com
 aracmuayeneistasyonlari.org
 aracmuayenekayit.com
@@ -155670,6 +155673,7 @@ esorguiadeleriaidat.ml
 esorgula.com
 esorgulama-kurumiadeportal.com
 esorgulama-yap.com
+esorgulama.com
 esorgulama.org
 esorgulamadosya.org
 esorgulamaportal.org
@@ -204637,6 +204641,7 @@ hepsibanakalsin23.digital
 hepsibedava.info
 hepsibenimle.xyz
 hepsiberaberyaninageldi.com
+hepsiberada.live
 hepsibgunacil-kampanyaduyurusunaozel.tech
 hepsibiarada-ekpaket-turkcell.com
 hepsibirarada-20gb-turkcell.com
@@ -270907,6 +270912,7 @@ lrdanskzordaprrrr.shop
 lrdenizbank.com
 lrdhtu.com
 lrdnbabavrggldi.net
+lrdnbrdnrvdalsn.lol
 lrdnmtohdysadhsxx.net
 lrdnvekirkharamileri.net
 lrdnvrgbrcodmnktsfln.net
@@ -277071,6 +277077,7 @@ marketten.lat
 markettenalim.cfd
 markettenalim.sbs
 markettenucuz.sbs
+marketteplus-tr.online
 markettesuperindirimlera101.online
 markettesuperindirimleraa101.online
 marketthediyeceki.online
@@ -289291,6 +289298,7 @@ mrhs-aps.online
 mrhs182rvd.click
 mrhsbsvronline.com
 mrhsmsxlmcl.net
+mrhsmsxlmx.com
 mrhsrmrmsmrn.com
 mrhsrrere.cfd
 mrhssrandevuum.com
@@ -301336,6 +301344,7 @@ ntkltklnklntlknt.net
 ntkpgak0.duckdns.org
 ntkrnlpa.cn
 ntlanmatkak.net
+ntlnltnltnl.net
 ntlntlamama.net
 ntltdguhcx.duckdns.org
 ntlwmnjeqy.duckdns.org
@@ -320624,6 +320633,7 @@ paribu-araba.com
 paribu-araba.live
 paribu-araba.online
 paribu-arababurada.com
+paribu-arababurada.info
 paribu-arababurada.link
 paribu-arabacekilisi.com
 paribu-arabahediye.com
@@ -330234,6 +330244,7 @@ prdlommfaq.pro
 prdnbrdclsyzvrnmyndf.biz
 prdnbrdclsyzvrnmyndf.shop
 prdnbrdyzgnvrfdgscc.click
+prdndabnsendennestdm.lol
 pre-checker.tk
 pre.alwayswait.site
 pre.evsahibibasvuru.com
@@ -354144,6 +354155,7 @@ sahibinden-get-ticaret.com
 sahibinden-get-yeni-sipariis.com
 sahibinden-get.alimlarinizhizmetler.online
 sahibinden-get.alisverisepetin-12.sbs
+sahibinden-get.alisverisepetin-15.sbs
 sahibinden-get.bireyselalimlarim.com
 sahibinden-get.click
 sahibinden-get.co.uk
@@ -364991,6 +365003,7 @@ sepet-odemesi-1988.com
 sepet-online-frst-ozel.crefoursasizlerlex.cyou
 sepet-online.com.tr
 sepet-onlineodeme-turkiye.com
+sepet-plus.online
 sepet-pttavm.com.tr
 sepet-pttavm.info.tr
 sepet-satinal.com
