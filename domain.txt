@@ -2241,6 +2241,7 @@
 101-mobil-extra-online-siparis-ozel-sepet-indiirmli-tr.web-shop-tr.online
 101-mobil-extra-sadece-bugune-ozel-alisveris-indirimleri-tr.extrada-tr.online
 101-mobil-extra-sadece-bugune-ozel-alisveris-sepet-indirimleri.storego-tr.online
+101-mobil-extra-sadece-bugune-ozel-alisveris-sepeti-tr.mobilsepette.online
 101-mobil-extra-sadece-bugune-ozel-indirimler-tr.shops-mobil.online
 101-mobil-extra-sadece-bugune-ozel-online-indirim-sepette-tr.plus-tr.online
 101-mobil-extra-sadece-online-ozel-sepette-alisveris-tr.cepte-al.online
@@ -156276,6 +156277,7 @@ esorguhazine.org
 esorguhukuk.org
 esorguiadeleriaidat.ml
 esorgula.com
+esorgulagib.com
 esorgulama-kurumiadeportal.com
 esorgulama-yap.com
 esorgulama.com
@@ -250807,6 +250809,7 @@ kapinizagetiriyoruzburada.com
 kapinizagetirsinbizimlekolyca.com
 kapinizahizlicagliyornsnzs.com
 kapinizakadargeliyoruzbaksn.com
+kapinizakadaronlinesizlericin.sbs
 kapinizakdrgeldi1o1.com
 kapinizda-101.com
 kapinizda-firsat-urun.com.tr
@@ -283017,6 +283020,7 @@ mhrr.tsdfyldrm.site
 mhrrndvcasfc.com
 mhrrnvdmhstne.net
 mhrrrshastanerandevu.giize.com
+mhrrs-randevular.com
 mhrrsdsrnadevusiteds.online
 mhrrsdsrnadevusiteds.store
 mhrrsserndvsal.net
@@ -297919,6 +297923,7 @@ nett0-kostenlos.net
 nettech.org.in
 nettehgseriyukle.sg-host.com
 nettentlyukleme.com
+nettenyolla.com
 netteparakazanmaguncelsiteleri.blogspot.com
 netteseriyukle.sg-host.com
 netteseriyuklemeler.sg-host.com
@@ -299004,6 +299009,7 @@ nextynfo.com
 nexulio.xyz
 nexulix.com
 nexumra.com
+nexupoly.com
 nexurafuture.info
 nexus-cloud-360.com
 nexus-urban.com
@@ -355693,6 +355699,7 @@ sahibinden-get.servisinguvenli-65.sbs
 sahibinden-get.servisinguvenli-67.sbs
 sahibinden-get.servisinguvenli-68.sbs
 sahibinden-get.servisinguvenli-75.sbs
+sahibinden-get.servisinguvenli-80.sbs
 sahibinden-get.servislerinmobil-12.sbs
 sahibinden-get.servislerinmobil-13.sbs
 sahibinden-get.servislerjethizmetler.online
@@ -355807,6 +355814,7 @@ sahibinden-getilan.tr-alisverisler-getislem.online
 sahibinden-getilan.tr-alisverisler.com.tr
 sahibinden-getilan.tr-hizmet.online
 sahibinden-getilan.tr-islemler-param-guvende.online
+sahibinden-getilan.tr-web-alisveris-get-islemler.online
 sahibinden-getilan.tr-web-alisveris.online
 sahibinden-getilan.tr-web-islemler.online
 sahibinden-getilan.tr-webalisveris-tr-getislemler.online
@@ -356647,6 +356655,7 @@ sahibinden-paramguvende.sepet-hizmet.com.tr
 sahibinden-paramguvende.sepet-hizmetin.com.tr
 sahibinden-paramguvende.sepetim-tr.com.tr
 sahibinden-paramguvende.siparis-onayim.online
+sahibinden-paramguvende.siparisim-guvenli.online
 sahibinden-paramguvende.site
 sahibinden-paramguvende.srgvnli.com.tr
 sahibinden-paramguvende.store
@@ -358085,6 +358094,7 @@ sahibinden.sepette-odeme.com
 sahibinden.sepette-odeme.online
 sahibinden.sepette-online.com.tr
 sahibinden.sepette-satinal.com
+sahibinden.sepetteonline.shop
 sahibinden.servis-onayla.com
 sahibinden.servislerin.net
 sahibinden.servisleriniz.com.tr
@@ -365804,6 +365814,7 @@ sendekoalybblbkblbl.mooo.com
 sendekolaybiseklde.com
 sendekolaycaaraclar.com
 sendekolaycabenlesin.com
+sendekolaycahallet1.lol
 sendekolaydasindarda34.net
 sendekolaylanlabenle.com
 sendekolkolabizimlegel.net
@@ -373484,6 +373495,7 @@ siparisilerim.com.tr
 siparisilet21subat.cloud
 siparisim-guvende.com
 siparisim-guvende.online
+siparisim-guvenli.online
 siparisim-onay-1921.com
 siparisim-onay-1922.com
 siparisim-sepette.com
@@ -374710,6 +374722,7 @@ sizlerde-bu-firsatlardan-yararlanin-sonkalanurunler-burada.com
 sizlerde-bu-firsatlardan-yararlanin-sonkalanurunler.com
 sizlerdeaktanfaydalanin.com
 sizlerdebizimlebasvurun.blogspot.com
+sizlerdefaydalanindiye.sbs
 sizlerdegelindost.online
 sizlerdehemenyararlanin.site
 sizlerdekazaninbizimle.com
@@ -393280,6 +393293,7 @@ tbiihjeedken.xyz
 tbilgizwebiz.sbs
 tbimce2lltopo.net
 tbinancetr.cyou
+tbinyo.ccwu.cc
 tbjrpv.biz
 tbjz87w.duckdns.org
 tbk.ist
@@ -406096,6 +406110,7 @@ tr-vgiris.online
 tr-vvrrt.com
 tr-web-aid-atiniz.com
 tr-web-aidat-applicasion.org
+tr-web-alisveris-get-islemler.online
 tr-web-alisveris.online
 tr-web-b-b-v-a.za.com
 tr-web-basvurular.net
@@ -406113,6 +406128,7 @@ tr-web-iade-erisim.net
 tr-web-iade-erisim.org
 tr-web-iade.net
 tr-web-iade.org
+tr-web-islemler-get-alisveris.online
 tr-web-online-iade-erisim.org
 tr-web-pandemitr-giris.net
 tr-web-portal.online
@@ -443541,6 +443557,7 @@ www-cepte-a-101.xyz
 www-cepte-b-asn.myonlineportal.ch
 www-cepte-birey-async.myonlineportal.ch
 www-cepte-de-tb.myonlineportal.ch
+www-cepte-down-tb.myonlineportal.ch
 www-cepte-found-tb.myonlineportal.ch
 www-cepte-frst-sync.myonlineportal.ch
 www-cepte-market-aktuel.com
@@ -443549,6 +443566,7 @@ www-cepte-market-aktuel.xyz
 www-cepte-market-kapinda.com
 www-cepte-market-kapinda.online
 www-cepte-market-kapinda.xyz
+www-cepte-off-tvb.myonlineportal.ch
 www-cepte-on-tb.myonlineportal.ch
 www-cepte-only.myonlineportal.ch
 www-cepte-portal-tb.myonlineportal.ch
