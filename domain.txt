@@ -4020,6 +4020,7 @@
 12212111455447885588952225590.duckdns.org
 12212111455447885588952225591.duckdns.org
 122121222222221.duckdns.org
+1222222222994949388.webredirect.org
 1222233122455666512255991.xyz
 1222233122455666512255993.xyz
 12234593-2353987.com
@@ -100745,6 +100746,7 @@ ceptetebden-emekli.my-homeip.de
 ceptetebden-emeklin.my-homeip.de
 ceptetebden-firsati.my-homeip.de
 ceptetebden.my-homeip.de
+ceptetebdeniz.my-homeip.de
 ceptetebderahatlik.com
 ceptetebderamazan.com
 ceptetebdigital.com
@@ -162500,6 +162502,7 @@ fakathaber.xyz
 fake-eta.vercel.app
 fakebloogs.cyou
 fakedmgir.pw
+fakedooomm.duckdns.org
 fakefriend.ddns.net
 fakeidmaker.onlinewebshop.net
 fakenitro666.ddns.net
@@ -328236,6 +328239,8 @@ piyasa360world.world
 piyasaakisi.org
 piyasabasassa.xyz
 piyasabizim.click
+piyasabizim.com
+piyasabizim.org
 piyasadurum.site
 piyasaekspres.online
 piyasahabercisi.com
@@ -347673,6 +347678,7 @@ reklaminizyoknerde.cfd
 reklamitele.com
 reklamkampanyalari.com
 reklamkaynagi.com
+reklamkristel.sbs
 reklamkutuphane.cfd
 reklamkutuphaneekim.cfd
 reklamkutuphanem-tr.gotdns.ch
@@ -443423,6 +443429,7 @@ www-a1o1-tic.online
 www-a1o1.hemenn-kapindaaa.online
 www-aa-com-tr.blogspot.com
 www-aa-com-trx.blogspot.com
+www-abc-tb-cpte.myonlineportal.ch
 www-ac-cepte-tb.myonlineportal.ch
 www-acik-deniz-2023.online
 www-acik-islem-denizde.online
