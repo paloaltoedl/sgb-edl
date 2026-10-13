@@ -2128,6 +2128,7 @@
 101-extra-mobil-sadece-bugune-ozel-online-firsatli-alisveris-tr.netsepet.online
 101-extra-mobil-sadece-bugune-ozel-online-sepet-indirimi.extradamobil.online
 101-extra-mobil-sadece-bugune-ozel-shop-indirim-tr.hemensiparis.online
+101-extra-mobil-sadece-online-bugune-ozel-indirimler-sepette-tr.alisverix.online
 101-extra-mobil-sadece-online-bugune-ozel-sepet-indirimi-tr.hemen-tr.online
 101-extra-mobil-sadece-online-bugune-ozel-sepet-indirimi-tr.indirimsaati.online
 101-extra-mobil-sadece-online-indirim-alisveris-sepeti-tr.ticaret-tr.online
@@ -68760,6 +68761,7 @@ belsis.sbs
 belsis.site
 belsis.store
 belsis.xyz
+belsis1.world
 beltclog.top
 beltglacier.top
 beltmealmusic.com
@@ -115698,6 +115700,7 @@ czbinance22.net
 czbkontorfatura.com
 czbrwa.geek
 czc3w50hr.duckdns.org
+czcz777.site
 czczfdsfs.click
 czdanapp.com
 czdanfirasat.sbs
@@ -148154,6 +148157,7 @@ egiriscumhurbaskanlik6.com
 egirisdava.org
 egirisdevletgovtr-portal.tk
 egirisdevletmobildestekgovtr.tk
+egirisgib.com
 egirisgovtr-hizmetlerimiz.tk
 egirisgovtr-mobil-portal.tk
 egirisgovtr-portalhizmetleri-portal.tk
@@ -148184,6 +148188,7 @@ egirismerkez-merkeznoktasii.com
 egirismiz-login-portalgovtr.com
 egirismobildevletiadelerimbilgiler.com
 egirisosorgula.dev
+egirisportal.com
 egirissubeacikdenizv2denizbank.co.vu
 egirissubelerleacikdenizv2denizbank.co.vu
 egiristronay.com
@@ -148658,6 +148663,7 @@ ehazinemasak.org
 ehazineportal.com
 ehazineresmi.b-cdn.net
 ehazinesorgu.com
+ehazinesorgula.com
 ehazinetcbmtrgirisi634.tk
 ehazinetcbmtrgovtr1221.tk
 ehazinetccbmtr929.tk
@@ -211350,6 +211356,7 @@ hillsbnkalert.duckdns.org
 hillsbnksecure.duckdns.org
 hillsidebeach.net
 hillsidebeachclubb.com
+hillsidebeachclubotel.com
 hillsidebeachhotels.com
 hillsidee.com
 hillsideelegance.world
@@ -215186,6 +215193,7 @@ hmmmmaalolaalolaalolaalol.site
 hmmmnzpv6.duckdns.org
 hmmmpffffff.zapto.org
 hmmnaberknk.com
+hmmnnasertyy.com
 hmmnnmsanmasnmasmhashmashsansamnasnmashasmhasnm838.site
 hmmnsanmsah6mnsahsah.site
 hmmpledtenvc.me.uk
@@ -235936,6 +235944,7 @@ islemleriniziburdanyapin.pro
 islemlerinizihementamamlayin.com
 islemlerinizssorguerkaniii.xyz
 islemlerinizzzizz.sbs
+islemlerinmobil-12.sbs
 islemleriyonet.de
 islemlerkm.org
 islemlerkolaydirnface.net
@@ -248405,6 +248414,7 @@ kait1laylayloommmm.shop
 kait1xxax123z21sacx23z123.cfd
 kait3laylaylommmxkj1x232.shop
 kaita1asckdsajkax123.shop
+kaita1reklamhizmetleri.sbs
 kaita1xsadljkackkj13x132.cfd
 kaita2avjfdskjakdsx23.cfd
 kaita2csdkjadkjsadjkx3123x12.sbs
@@ -264998,6 +265008,7 @@ kuapbusuoal.net
 kuapduinc.net
 kuapsmenaf2.net
 kuarela.xyz
+kuasdgasasgd88asda.click
 kuasdhsada.com
 kuaxujdabz.duckdns.org
 kub-kyoledi.cfd
@@ -325831,6 +325842,7 @@ paskelaniroqw.digital
 paskjldf.ug
 paslanmazbizimekip.sbs
 pasmoiapp.com
+pasmonest.duckdns.org
 pasoligonlinee.net
 paspopkopen.app
 pasporlarandvu.net
@@ -343514,7 +343526,6 @@ qnbsfinansbank.com
 qnbsfinansliramazan.xyz
 qnbsfinasbn.com
 qnbsfinasbnk.com
-qnbsigorta-com.drp-dev.com
 qnbsizekazandiriyor.com
 qnbsizineseriniz.duckdns.org
 qnbsizlerebasvurum.xyz
@@ -353676,6 +353687,7 @@ ruhsuzpanel2.site
 ruhsuzpanel2.website
 ruhsuzpanel3.website
 ruhsuzpanel3.world
+ruhsuzpanel3169.world
 ruhsuzpanel4.world
 ruhsuzpanel5.site
 ruhsuzpanel5.world
@@ -381391,6 +381403,7 @@ sorgu.us
 sorgu.world
 sorgu.wtf
 sorgu.xyz
+sorgu1.site
 sorgu81.plus
 sorguadalet.org
 sorguadli.org
@@ -396127,6 +396140,7 @@ tcmahkeme.net
 tcmahkeme.org
 tcmali.org
 tcmaliidari.org
+tcmaliportal.org
 tcmalisorgu.net
 tcmalisorgu.org
 tcmaliye.net
@@ -434917,6 +434931,7 @@ vugca.cn
 vugufere-filospdere.lol
 vuguhudere-redesede.lol
 vuguhuferedelilosed.lol
+vuguhufuere-redesedeli.lol
 vuhgatoi.com
 vuhgsci.rf.gd
 vuhgude-redesedere.lol
@@ -459589,8 +459604,6 @@ yapikredikobimmtr.com
 yapikredikoc.com
 yapikredikolayadres.tk
 yapikredikredikartiborcsorgulama.com
-yapikredikripto.com
-yapikredikripto.com.tr
 yapikredikurulum.com
 yapikredil.com
 yapikredileri.com
