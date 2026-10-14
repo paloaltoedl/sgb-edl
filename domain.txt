@@ -11974,6 +11974,7 @@
 312241222111422245225894.xyz
 312241222111422245225896.xyz
 312241222111422245225897.xyz
+312241222111422245225898.xyz
 31231231251321-1213.cloud
 312312321321.cloud
 31231313.duckdns.org
@@ -195101,6 +195102,7 @@ haberler145.shop
 haberler14534925.shop
 haberler145365349.sbs
 haberler145425462.shop
+haberler15123424.sbs
 haberler1542334.shop
 haberler154313.sbs
 haberler1564568.sbs
@@ -225364,6 +225366,7 @@ ilanlarimmobiles.com
 ilanlarimobilden.com
 ilanlarimode.online
 ilanlarimode.shop
+ilanlarin-hemen-burada.com
 ilanlarin-satislari-online.com
 ilanlarin-siparis.com
 ilanlarin.com
@@ -284179,6 +284182,7 @@ mgybx.net
 mgyrs.online
 mh-r-al-randv-simdi-hemence.duckdns.org
 mh-rdnvlrm-buradan-m.web.app
+mh-rdvzmni.cfd
 mh-rs.182iletisim.click
 mh-rsgiris.cyou
 mh-service.ru
@@ -302329,6 +302333,7 @@ nnns.zapto.org
 nnnsmdkskd.net
 nnnsmdmskd.net
 nnnvsbbonlne.net
+nnnvvsdsdrttyreeertty.com
 nnnvvvksvrmtg.net
 nnnwerr.net
 nnnwphnamh.us
@@ -362535,6 +362540,7 @@ sapancaarabakiralama.com.tr
 sapancabungalov.online
 sapancabungalovevleriniz.shop
 sapancabungalow.online
+sapancaevleri.xyz
 sapancarosebungalov.net
 sapaos.shop
 sapapunyamussq.hopto.org
@@ -382626,6 +382632,7 @@ sosyalyardim-e-a-v-m-p-t-t.shop
 sosyalyardim-pandemi.cf
 sosyalyardim-pandemi.com
 sosyalyardim-turkiye.tech
+sosyalyardim.duckdns.org
 sosyalyardim.ga
 sosyalyardim.gq
 sosyalyardim.info
@@ -403662,7 +403669,9 @@ togg.lol
 togg.onsatisbasvur.com
 togg.pro
 togg.satisonbasvuru.com
+togg.top
 togg.website
+togg.wiki
 togg.zuzzuu.com
 togg2023denizsubegiris.tk
 togg2023enparacekilisi.net
@@ -473696,6 +473705,7 @@ zraat-esubem.com
 zraat-esubem.net
 zraat.net
 zraatb.net
+zraatbank.netlify.app
 zraatbankassi.com
 zraatbasvuru.com
 zraatbk.com
