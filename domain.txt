@@ -25864,6 +25864,7 @@ a101hizliindrimler.com
 a101hizliindrims.com
 a101hizlimarket.duckdns.org
 a101hizmet.com
+a101hizmetayinda.duckdns.org
 a101hizmetleri101.dynip.org
 a101hobihadi.com
 a101icinfirsat.com
@@ -181227,6 +181228,7 @@ gemex.space
 gemgovrmn.my.id
 gemgovrmn.web.id
 gemgovrnm.biz.id
+gemgovrnm.my.id
 gemibasvurunerededeniz.xyz
 gemidenizin.online
 gemilerbatsin-govtr.click
