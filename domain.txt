@@ -2337,6 +2337,7 @@
 101-mobil-extra-sadece-bugune-ozel-online-siparis-ver-tr.cepspts.online
 101-mobil-extra-sadece-online-ozel-alisveris-sepeti-indirimleri.genel-indirim-tr.online
 101-mobil-extra-sadece-online-ozel-alisveris-sepeti-tr.trendyl-mobil-tr.online
+101-mobil-extra-sadece-online-ozel-indirimler-tr.shopspay.online
 101-mobil-extra-sadece-online-ozel-sepette-alisveris-tr.cepte-al.online
 101-mobil-online-alisveris-tr.linkpc.net
 101-mobil-online-alisveris.ooguy.com
@@ -94907,6 +94908,7 @@ bydxahimdo.duckdns.org
 byebyecoronavirus.com
 byebyeeee.click
 byebyeizuna.ddns.net
+byedubaicenter.duckdns.org
 byehayvan.ddns.net
 byequx.pics
 byeserver.com
@@ -398204,6 +398206,7 @@ tebdekazanin.com
 tebdekkborcuindirim.com
 tebdemartsurprizleri.cf
 tebdemartsurprizleri.ml
+tebden-basvuru.mobil-bankacilik.site
 tebdendenebasvurukredilerini.click
 tebdenemesc.duckdns.org
 tebdenhemen-basvuru.com
