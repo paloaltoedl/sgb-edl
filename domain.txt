@@ -56,6 +56,7 @@
 00000000039.shop
 000000000girisyap.online
 000000001.host
+0000000055555.duckdns.org
 000000008.cloud
 000000027.xyz
 0000000333.duckdns.org
@@ -9680,6 +9681,7 @@
 22232522500212.duckdns.org
 22234111.duckdns.org
 22245112245542224554254590.xyz
+22245112245542224554254594.xyz
 2228876238-6774344.com.tr
 2228876238-6774344.xyz
 2228876238-6774346.xyz
@@ -207547,6 +207549,7 @@ hepsisigortaci.net
 hepsisigortam.net
 hepsisimkazanmakicinbuguntiklabance.site
 hepsislemler.app
+hepsissaldnrb.com
 hepsisurada.ml
 hepsitakipci.com
 hepsitakipci.net
@@ -213982,6 +213985,7 @@ hizlifilom.com
 hizlifinansyeriniz.xyz
 hizlifirsat-acikdenizv2denizbank.com
 hizlifirsatgunleri.shop
+hizlifirsatim.com
 hizlifirsatkapinda.com
 hizlifirsatlarhemensatinal.com.tr
 hizlifirsatlarhemensatinal.online
@@ -361786,6 +361790,7 @@ sahibindene.com
 sahibindeneguven.com.tr
 sahibindeneguven.xyz
 sahibindeneguvenlialisveris.com
+sahibindenekstra.com
 sahibindenelk.com.tr
 sahibindenelk.xyz
 sahibindenemlakalsat.com
@@ -419894,6 +419899,7 @@ tuvaracmuaynesistemimiz.net
 tuvaracmuaynesistemleri.com
 tuvarascmuy.it.com
 tuvaslaturtuv.com
+tuvastuvastuv.com
 tuvayashepexida.com
 tuverandevuolustur.com
 tuvgturk.digital
@@ -446222,6 +446228,7 @@ wulingturkiye.com
 wulpfsrqupnuqorhexiw.supabase.co
 wulqevor.surf
 wuluxo.com
+wumingcccv.com
 wumniq.com
 wunchilm.com
 wunixeacau.life
