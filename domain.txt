@@ -163559,6 +163559,7 @@ facebook-login-instant-vn.com.ph
 facebook-login-ireland-cork.com.ph
 facebook-login-ireland-intl.com.ph
 facebook-login-jakarta-kr.net.ph
+facebook-login-jakarta-sa.net.ph
 facebook-login-largo.com.ph
 facebook-login-lisbon.com.ph
 facebook-login-login-extra.ph
@@ -163571,6 +163572,7 @@ facebook-login-no-logino-com.ph
 facebook-login-osaka10014.com.ph
 facebook-login-page-secure.ph
 facebook-login-paris-lyon.com.ph
+facebook-login-paris41.com.ph
 facebook-login-problem.ph
 facebook-login-secure-page.ph
 facebook-login-team-validate.ph
@@ -320572,6 +320574,7 @@ ozel-firsatlar-kasim-online.online
 ozel-firsatlar-kasim-online.xyz
 ozel-firsatlar-sok-online.org
 ozel-firsatlar-zamani-yakala.online
+ozel-firsatlarsizeozel.vercel.app
 ozel-fiyatlar-tr.online
 ozel-globalfirsatlarihemenyakala.com
 ozel-haber.site
@@ -356451,6 +356454,7 @@ ryu2ketu7.duckdns.org
 ryuitaqw.pw
 ryuk79.duckdns.org
 ryukleme1.22web.org
+ryuzbuindirim.duckdns.org
 ryvwlpcnmtch.tech
 ryw23.ddns.net
 rywespgrmlxpqoa.ru
