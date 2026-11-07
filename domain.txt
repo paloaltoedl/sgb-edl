@@ -14240,6 +14240,7 @@
 4018924765717295130.duckdns.org
 4018924765717295140.duckdns.org
 401x3g.duckdns.org
+403-forbidden.sbs
 4034892884-3429834.cloud
 403941-1123-2.cloud
 403esg.duckdns.org
@@ -131940,6 +131941,7 @@ dmaz33ecrouch.top
 dmbkydzyke.duckdns.org
 dmbsa.com
 dmca-chrome-extensions.click
+dmca-claim.info
 dmca-notification.info
 dmca-wipo.com
 dmcgroup.com.vn
@@ -163841,6 +163843,7 @@ facebook-giris.cf
 facebook-giris.ml
 facebook-google.top
 facebook-help-lnstagram.cf
+facebook-help-reset.ph
 facebook-helper.xyz
 facebook-like-login.ph
 facebook-login-barcelona101.com.ph
@@ -163993,6 +163996,7 @@ facebookloginfinanceforum.com.ph
 facebookloginfinancehelp.com.ph
 facebookloginfitnesspage.com.ph
 facebookloginfloristonline.com.ph
+facebookloginfranchise.com.ph
 facebookloginfriends-anime.com.ph
 facebookloginfriends-art.com.ph
 facebookloginhelp-denmark.com.ph
@@ -214919,6 +214923,7 @@ hizligecisonline2022.com
 hizligecisotomatik.blogspot.com
 hizligecisotoyol-devlet.gq
 hizligecisporali.net
+hizligecisportalin.web.app
 hizligecisptt.xyz
 hizligecisrehberi.web.app
 hizligeciss2022.com
@@ -221735,6 +221740,7 @@ hystericalsteward.top
 hysuhuu.com
 hytappdata.site
 hytcezalar.22web.org
+hytdenemeseris.duckdns.org
 hytdnzdeguzl.shop
 hytechmart.com
 hytheros.site
@@ -263513,6 +263519,7 @@ ko3a-dere3a.ru
 ko3uea.duckdns.org
 ko46h9wi9.duckdns.org
 ko582s.duckdns.org
+koadsfced.giize.com
 koagux.top
 koala.acsocietyy.com
 koalayalisverin.online
@@ -315051,6 +315058,7 @@ onlinealisveris-tr-tr.shop
 onlinealisveris-tr.sa.com
 onlinealisveris-tr.shop
 onlinealisveris.click
+onlinealisveris.live
 onlinealisveris.ru.com
 onlinealisveris101.co
 onlinealisveris101.shop
@@ -331392,6 +331400,7 @@ phaantommwalletextension.webflow.io
 phaaqannhs.in
 phaermsmnr.in
 phaintomewallet.webflow.io
+phalisverisptt-avm.com.ph
 pham.duchieu.de
 phandamidesteksbasvurus.tk
 phanleb.com
@@ -337732,6 +337741,7 @@ promoobasvur.com
 promoonayekrandenizde.duckdns.org
 promopulses.info
 promoreclame.nl
+promos-cepteteb.my-homeip.de
 promos.my-homeip.com
 promosionizinleri.com
 promosiyo.shop
@@ -407000,6 +407010,7 @@ togg-arac-finansmanlari.com
 togg-basvuru-katilim.komisyoniadesi.net
 togg-basvuru.online
 togg-cekilis.com
+togg-e.com
 togg-faizsiz-limitim.netlify.app
 togg-faizsizlimitlerim.com
 togg-finans-kredim.com
