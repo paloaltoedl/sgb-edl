@@ -44705,6 +44705,8 @@ alisveris-firsatlar.com
 alisveris-get-ilan.com
 alisveris-get-pay.com
 alisveris-getp.com.tr
+alisveris-guvende-20.sbs
+alisveris-guvende-25.sbs
 alisveris-guvende-tr.online
 alisveris-guvende.online
 alisveris-guvenli-pay.com
@@ -127341,6 +127343,7 @@ dev7129.d2qmcnsgj0y7oj.amplifyapp.com
 deva28.com
 devab2.s3.eu-north-1.amazonaws.com
 devab3.s3.eu-north-1.amazonaws.com
+devafilo.com
 devaidatiadesi.cyou
 devakremiresmi.ml
 devakremiresmi.tk
@@ -300133,6 +300136,7 @@ nakidka.hopto.org
 nakifavansfirsatlari2022.xyz
 nakil-web.ink
 nakil-web.my-homeip.de
+nakilotokiralama.com
 nakit-eylul-firsatim.click
 nakit-hiza.online
 nakit-ihtiyacim.com
