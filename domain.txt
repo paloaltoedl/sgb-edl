@@ -39423,6 +39423,7 @@ akbank-mobilkanal.lat
 akbank-mobilkredim.vercel.app
 akbank-mobilsube-kampanya-firsati.club
 akbank-mobilsubem.site
+akbank-odeme.online
 akbank-odeme.social-networking.me
 akbank-odenek.ml
 akbank-onay.xyz
@@ -39835,6 +39836,7 @@ akbankozel.github.io
 akbankpaneli.com
 akbankperakendesenligi.com
 akbankplatinum.com
+akbankplayablevercel.vercel.app
 akbankplctr.eu
 akbankpos.chinesenearme.net
 akbankpreprod.com
@@ -54271,6 +54273,7 @@ aselsan-soft.com
 aselsan-system.com
 aselsan-tr.com
 aselsan-tr.net
+aselsan-tr.top
 aselsan-trade.co
 aselsan.store
 aselsan.tech
@@ -61977,6 +61980,7 @@ bandageunprecedented.top
 bandanaman.465154865486516.sbs
 bandanaman.6457893208679.sbs
 bandanaman.7846513487846.sbs
+bandanaman.986345367834.sbs
 bandanasugandhiagarbatti.com
 bandcampmusicalbumsseo.com
 bandcamponlinemusicmkt.com
@@ -83847,6 +83851,7 @@ blsmscxltmceltl.net
 blsouqs.com
 blstknrmva.xyz
 blsvisa.com.tr
+blsvisa.org
 blt-cll.com
 blt-kampanyanizburada.net
 blth32serv.net
@@ -96025,6 +96030,7 @@ c-e-p-t-e-t-e-b.my-homeip.de
 c-e-p-t-e-t-e-b.my-homeip.net
 c-e-p-t-e-teb.my-homeip.de
 c-ep-t-e-t-e-b.my-homeip.de
+c-gatepremiums.com
 c-guvenli-alisveris.sa.com
 c-hgs.com
 c-hotelsandromeda.world
@@ -177725,6 +177731,7 @@ garanti-formu-kampanya-bizde-var-basvur-online.ml
 garanti-geri-iade-islemleri.line.pm
 garanti-giris.click
 garanti-giris.com
+garanti-giris.online
 garanti-girisim.com
 garanti-guncelhizmetleri-2023.com
 garanti-guncelhizmetleri-2024.com
@@ -241974,6 +241981,7 @@ isubemizhizmetimizdegerlimizhizmetlimiz.net
 isubemiziraat.com
 isubemkuveyttenturk.com
 isubemkuveytturk.com
+isubemlakbank.com
 isubemobil2019da.tk
 isubemobilde.ml
 isubemobilde.tk
@@ -320162,6 +320170,7 @@ osmanlidayanisma.com
 osmanlidomainkkssdas.com
 osmanlifearleskksss.com
 osmanlifearleskmcnsad.com
+osmanliglobal.com
 osmanlikallica.cfd
 osmanlikatilim.com
 osmanlikkbaytar.space
@@ -332280,6 +332289,7 @@ philkassa-spb.com
 philliesmgir.pw
 phillipcapital-trd.com
 phillipcapitaldanismanlik.com
+phillipcapitaldanismanliktr.com
 phillipcapitaltrade.com
 phillipcapitaltrader.com
 phillipis.cfd
@@ -340455,6 +340465,7 @@ ptt-kargonuzu-kolayca-getirelim.com
 ptt-kargonuzu-kolayca.com
 ptt-kargotakip-sorgula.online
 ptt-kargotakip.com
+ptt-kargotakip.space
 ptt-kargotakipleriniz.com
 ptt-kargoyla-hmen-kapinda.firsat-gecesi-almayan-kalmamsin.icu
 ptt-kariyerr.com
@@ -348218,6 +348229,7 @@ qulhcxpo.com
 qulimarov.com
 qulinas.com
 qulix.cfd
+qulori.com
 qulusulu.site
 qumarot.com
 qumel.link
@@ -384758,6 +384770,7 @@ sonfrslttrrrbsvrrrkmpnyyykrediiifrstlrr.pro
 sonfrstbugun.online
 sonfrstkmpnyabsvrr.pro
 sonfrstkmpnyabsvrr.xyz
+sonfrstlar.75489snfrsltar.info
 sonfrstlar.shop
 sonfrstlarburda1o1tukenyr.shop
 sonfrstlarburdatukenyr1o1.shop
@@ -452557,6 +452570,7 @@ www-plataform-berry-lso.blogspot.com
 www-platin-world-com.tk
 www-plt-awm.online
 www-pmtb-cepte-door.myonlineportal.ch
+www-pointb-cpttb-gorunum.myonlineportal.ch
 www-polisi155.online
 www-presidentsoffice-gov-lk.dwnlld.com
 www-profile-bakanlari-ogren-com.tk
@@ -468656,6 +468670,7 @@ yeniyilaozelkampanyaliyukleme.ml
 yeniyilaozelkatilimsayfasi-online.online
 yeniyilaozell.online
 yeniyilaozellaidtiadefrsati.org
+yeniyilaozellkmpnyaprmsyn.75489snfrsltar.info
 yeniyilaozelteklif.tk
 yeniyilaozeltoggcekilisi.net
 yeniyilaozelyilbasifirsatlari.online
@@ -475838,6 +475853,7 @@ ziraat-baharda-sizlerle.tk
 ziraat-ban-emekli.my-homeip.com
 ziraat-bank-bireysel-cep.com
 ziraat-bank-bireysel.com
+ziraat-bank-giris.online
 ziraat-bank-katilim.cf
 ziraat-bank-katilim.tk
 ziraat-bank-kredim.github.io
