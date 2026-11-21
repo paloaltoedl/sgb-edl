@@ -25466,6 +25466,7 @@ a101.aldin-aldin-web.com
 a101.aldinaldinyilbasinaozel.com.tr
 a101.aldinaldinyilbasiozel.com.tr
 a101.alisveris-sepet-guvende-15.sbs
+a101.alisveris-sepeti-guvende-20.sbs
 a101.alisveris-sepetinde-10.sbs
 a101.alisverisinkapinda.com.tr
 a101.alma.sa.com
@@ -25632,6 +25633,7 @@ a101.kapindaodeme.com
 a101.kapinizageldi.com
 a101.kasimkatalog.com
 a101.kaskass.net
+a101.kaslminlerlnden.com
 a101.kazeaktuel.com
 a101.kazefatih.com
 a101.kazeligunlerim.com
@@ -44858,6 +44860,7 @@ alisveris-sepet-guvende-15.sbs
 alisveris-sepet-ilan.com.tr
 alisveris-sepet.com.tr
 alisveris-sepete-ekle-tr.mooo.com
+alisveris-sepeti-guvende-20.sbs
 alisveris-sepeti.online
 alisveris-sepetim.com.tr
 alisveris-sepetim.online
@@ -51021,6 +51024,7 @@ arabskmsorglma.xyz
 arabulucuadliye.org
 arabulucudosya.org
 arabulucuegm.org
+arabulucuistanbul.org
 arabulucukontrol.org
 arabuluculukadli.org
 arabuluculukceza.com
@@ -51741,6 +51745,7 @@ aracmuayeneqxxxc.net
 aracmuayenerandevu-al.com
 aracmuayenerandevu.b-cn.net
 aracmuayenerandevu.com
+aracmuayenerandevu.name
 aracmuayenerandevu.net
 aracmuayenerandevu.org
 aracmuayenerandevu.tk
@@ -58126,6 +58131,7 @@ avsotokiralama.net
 avsotokoc.net
 avsotokockiralama.com
 avsotomobilkiralama.com
+avsotomotivkirala.com
 avsrent.com.tr
 avsrentacar.com.tr
 avsrentacar.genel-merkez.com.tr
@@ -102982,6 +102988,7 @@ cezasorgugov.com
 cezasorgugov.org
 cezasorgukamu.org
 cezasorgulama-odeme.online
+cezasorgulama.blogspot.com
 cezasorgulama.org
 cezasorgulamatr.org
 cezasorgulamauzlasma.com
@@ -112467,6 +112474,7 @@ corinnagreco.com
 cork.proseinksli.net
 corkabilia.eu
 corky.sbs
+corlinexa.online
 corluakarsuinsaat.com
 corluma.vu
 corlusahibinden.net
@@ -137512,6 +137520,7 @@ dypsln4.duckdns.org
 dypujay.com
 dyqaceitoe.com
 dyr-tkcn.online
+dyref.com
 dyrlek.com
 dyrs9mjhe.duckdns.org
 dyrsnsc.duckdns.org
@@ -149853,6 +149862,7 @@ eggthigh.top
 eghjlf.com
 eghsowp.duckdns.org
 egi5nh.duckdns.org
+egibavukat.com
 egibhazine.com
 egibhazine.net
 egibinfaz.com
@@ -186765,6 +186775,7 @@ girisdvltiadeexv1.gq
 girisdvltiadeexv1.ml
 girisdvltiadeexv1.tk
 girisdvltiadeexv1.xyz
+girisdy.com
 girisdyb.com
 girisdyurubasvur.com
 girise--qnbfinansbank.com
@@ -227923,6 +227934,7 @@ ilan-letgo.com.tr
 ilan-m.com.co
 ilan-m.com.pl
 ilan-magaza.com
+ilan-mobil.com
 ilan-mobilder.com
 ilan-no-1082102662-sahibinden.com
 ilan-no-1082181081-sahibinden.com
@@ -341492,6 +341504,7 @@ ptt.avmilansepetim.com
 ptt.avmonlinesiparisim.com
 ptt.avmsatislarim.com
 ptt.avmsiparislerim.com
+ptt.avmsiparisolustur.com
 ptt.bar
 ptt.breffy.cyou
 ptt.breffy.icu
@@ -342235,6 +342248,7 @@ pttavm.sistemini-tamamla.com
 pttavm.site
 pttavm.sizin-sepetinizde.com.tr
 pttavm.sonfirsati.com.tr
+pttavm.sorunsuzsiparis.online
 pttavm.store
 pttavm.tamamla-sipars.com
 pttavm.tedarigin-guvenlisi.com
@@ -373126,6 +373140,7 @@ sepetimonay.study
 sepetimonay.surf
 sepetimonaycom.shop
 sepetimonaycom.surf
+sepetimonline724.duckdns.org
 sepetimp-ttavm.com
 sepetimsiparis.com
 sepetimstanleyler.xyz
@@ -373199,6 +373214,7 @@ sepetlerlmlzdeucuzluklarvar.com
 sepetlertukeniyor.site
 sepetlerveucuzluklarvar.com
 sepetligunlergeldi.com
+sepetlikmagaza.duckdns.org
 sepetlrmzguncel.com
 sepetmagazas.com
 sepetmagazasa.com
@@ -386751,6 +386767,7 @@ sorgulamaservisinizl.com
 sorgulamasistemi.com
 sorgulamasisteminde.xyz
 sorgulamastr.com
+sorgulamatrafik.blogspot.com
 sorgulamatransverservisi.cyou
 sorgulamatrmr.net
 sorgulamaturkiye-apx.com
@@ -413191,6 +413208,7 @@ tr-sepetiniz.online
 tr-sepettex.online
 tr-sepeturunlerindirim.org
 tr-servis-onay.online
+tr-servis-onayi.online
 tr-servisleri.online
 tr-sikayet-var.com.tr
 tr-sikayet.merkez-tr.com.tr
@@ -413380,6 +413398,7 @@ tr-web-iade-erisim.org
 tr-web-iade.net
 tr-web-iade.org
 tr-web-islemler-get-alisveris.online
+tr-web-islemler-tr-getalisveris.online
 tr-web-online-iade-erisim.org
 tr-web-pandemitr-giris.net
 tr-web-portal.online
@@ -428462,6 +428481,7 @@ urunlerdebuyukkampanyakacirma.online
 urunlerdebuyukkampanyakacirma.xyz
 urunlerdeinidirmsondakika.com.tr
 urunlerdeinidirmsondakika.online
+urunlerdekampanyalar.duckdns.org
 urunleresepetteindirim.online
 urunleresepetteindirim.xyz
 urunlerhaftalikcrfrsde.cfd
@@ -473759,10 +473779,12 @@ yukelmegecis.co
 yukeshapi.neocities.org
 yukifabrika.com
 yukifabrikasatis.com
+yukifabrikasatisi.com
 yukimator1.space
 yukimora.live
 yukimotorluaraclar.com
 yukionlinesatis.com
+yukitr.com
 yukj-e.blogspot.com
 yukklegez.net
 yukkllegez.net
