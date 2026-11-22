@@ -1679,6 +1679,7 @@
 1-0-1-firsatdiyari-geldi.com
 1-0-1-hftaninn-yldzlarii.com
 1-0-1-k-a-m-p-a-n-y-a.com.tr
+1-0-1-kampanya.duckdns.org
 1-0-1-kapidafirsats.com
 1-0-1kapida.store
 1-0-1onlineozel.com
@@ -2362,6 +2363,7 @@
 101-kacmaz3.art
 101-kacmazfirsatlaroglen.com
 101-kacmazfirsatsabah.com
+101-kampaanya.duckdns.org
 101-kampanya-firsat.ddns-ip.net
 101-kampanya-indirimlerigeldi.cfd
 101-kampanya-zamani.com.tr
@@ -58055,6 +58057,7 @@ avsaracingelsin.com
 avsaracinkurumsal.com
 avsarackirala.com
 avsarackirala.com.tr
+avsarackirala.net
 avsarackiralamahizmet.com.tr
 avsarackiralamahizmet.xyz
 avsaraclarkirala.xyz
@@ -58079,6 +58082,7 @@ avscehwvsvanasb.org
 avscomtr.com
 avsecretarial.com
 avsecurityorbit.com
+avsfiilokurumsal.com
 avsfilo.online
 avsfilo.onlinekirala.autos
 avsfilo724.com
@@ -58092,6 +58096,7 @@ avsfilokiralama.online
 avsfilokiralamaa.com
 avsfilokiralik.com
 avsfilokurumsal.com
+avsfilokurumsal.net
 avsfilokurumsal.online
 avsfilom.com
 avsfilom.net
@@ -58103,6 +58108,7 @@ avsfilonrentcara.com
 avsfilonukirala.com
 avsfilorent.com
 avsfilorent.net
+avsfilorentacar.net
 avsfilorental.com
 avsfilorentkiralama.com
 avsfilorezervasyon.net
@@ -58112,6 +58118,7 @@ avsglobalkiralama.xyz
 avsguncel.com
 avshepyaninda.com
 avsiad.com
+avsilecomtr.com
 avsistemler-webtr.com
 avskampanya.acente1.com.tr
 avskapida.com.tr
@@ -58165,6 +58172,7 @@ avsrentacar.net
 avsrentacar.online
 avsrentacar.org
 avsrentacarfilo.com
+avsrentacarfilo.net
 avsrental.com
 avsrental.net
 avsrentalcar.net
@@ -168476,6 +168484,7 @@ filodanaraciniz.com
 filodednce.giize.com
 filodendie.giize.com
 filofast.com.tr
+filogomavs.com
 filohizmetlerin.online
 filojet.net
 filojones.com
@@ -202626,6 +202635,7 @@ hamenox1t3yz.xyz
 hamepureaf.xyz
 hamer.zapto.org
 hameradacem.cfd
+hamhamhamhamhamh.online
 hamhamhamhamhmaham435234.com
 hamhose.top
 hamid424242.zapto.org
@@ -215720,6 +215730,7 @@ hizlievim-yuzyil.online
 hizlifaturamode.com
 hizlifaturaode.com
 hizlifaturaode.com.tr
+hizlifilokirala.net
 hizlifilolar.com
 hizlifilom.com
 hizlifinansyeriniz.xyz
@@ -216520,6 +216531,8 @@ hizliotogecisciliklerle.blogspot.com
 hizliotogeciscilikte.blogspot.com
 hizliotogecisservis.net
 hizliotokirala.com
+hizliotokirala.net
+hizliotokiralama.net
 hizliotomatikgecislerhgsgecisle.blogspot.com
 hizliotomatikgecislersizlerle.blogspot.com
 hizliotomatkgeciscilik.net
@@ -288265,6 +288278,7 @@ mhrs-sistem.vercel.app
 mhrs-vatandas-randevu.click
 mhrs-web.pages.dev
 mhrs-yenidenoo.sbs
+mhrs.85-235-74-24.sslip.io
 mhrs.alllahnerdekiya.sbs
 mhrs.basvurulari.org
 mhrs.cicekcihizli.cyou
@@ -293460,6 +293474,7 @@ mobilservisler-88.sbs
 mobilservisler.com
 mobilservisler.online
 mobilservisler.xyz
+mobilservisleri-42.sbs
 mobilservisleri.online
 mobilservislerim.com
 mobilservisleriniz-1.sbs
@@ -307953,6 +307968,7 @@ nsndamutfagnzda.cfd
 nsnfrsssttlribrayagldi.com
 nsnjwtnjlq.duckdns.org
 nsnsnnsananwse.net
+nsnsnwrnqke.sbs
 nsnssmnnhnjemk.net
 nsntasdtw.duckdns.org
 nsnzmnicrfsadhersy.com
@@ -322487,6 +322503,10 @@ oviqegoqju.duckdns.org
 ovisfilo.com
 ovisfilokirala.com
 ovisfilokurumsal.com
+ovisfilokurumsal.net
+ovisfilorentacar.net
+oviskiralama.com
+oviskurumsal.com
 ovitsop.ddns.net
 oviyrx.com
 ovlcfo.top
@@ -334497,6 +334517,7 @@ platformtrirtibatg-webtrgiris.com
 platformtrirtibatkaynak-web.com
 platformtrweb-girtronline.com
 platformum.xyz
+platformunsahipleri.xyz
 platforn.com
 platforrma-turkish.website
 platinbayim.com
@@ -341679,6 +341700,7 @@ ptt.mobilservisler-65.sbs
 ptt.mobilservisler-67.sbs
 ptt.mobilservisler-75.sbs
 ptt.mobilservisler-87.sbs
+ptt.mobilservisleri-42.sbs
 ptt.mobilservisleri.com
 ptt.mobilservisleri.online
 ptt.mobilservsim.com
@@ -363375,6 +363397,7 @@ sahibinden-ticaret.com.tr
 sahibinden-ticaret.xn--breysel-rfb.com.tr
 sahibinden-tr-guvenliodeme.gethizliode.net
 sahibinden-tr-online-alisveris.x10.mx
+sahibinden-tr-paramguvende.siparis-onayi.shop
 sahibinden-tr.e-odemeguvenli.sa.com
 sahibinden-tr.e-online-alisverislerim.sa.com
 sahibinden-tr.guvenli-alisverislerim.sa.com
@@ -364512,6 +364535,7 @@ sahibinden.secureal-tr.ru.com
 sahibinden.securealim.com
 sahibinden.securealimlar.com.tr
 sahibinden.securealimlarim.com.tr
+sahibinden.secured-ilan.com
 sahibinden.securee-pay.com.tr
 sahibinden.secureilani.com.tr
 sahibinden.secureileode.com
@@ -380075,6 +380099,7 @@ siparis-onay-7268.com
 siparis-onay-tr.online
 siparis-onay.online
 siparis-onayi.online
+siparis-onayi.shop
 siparis-onayim-176204.com
 siparis-onayim-176207.com
 siparis-onayim-176208.com
