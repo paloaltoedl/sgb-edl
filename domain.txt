@@ -2452,6 +2452,7 @@
 101-mobil-online-alisveris-tr.linkpc.net
 101-mobil-online-alisveris.ooguy.com
 101-mobil-online-alisverisi-extra.cebinde-giris.online
+101-mobil-online-cepinde-alisveris-tr.cebindesepet.online
 101-mobil-online-extra-indirimler-sadece-bugune-ozel-tr.shopping-tr.online
 101-mobil-online-ozel-tr.mooo.com
 101-mobil-sadece-bugune-ozel-alisveris-indirim-sepetleri-tr.trendextraa.online
@@ -15141,6 +15142,7 @@
 47xs5w.duckdns.org
 47ydv7.duckdns.org
 4812183513hizlcsmler-aracm360ptavm.online
+48128bsvrrkredisnfrstl.online
 48171ccom.com
 481jjakqf.ddns.net
 48223.cloud
@@ -39891,6 +39893,7 @@ akbankk.net
 akbankk.tk
 akbankkampanya.com
 akbankkampanya.lat
+akbankkampanya.vercel.app
 akbankkampanyam.com
 akbankkampayam.com
 akbankkayit.com
@@ -42080,6 +42083,7 @@ aktuel-firsatlari.com.tr
 aktuel-firsatlari.online
 aktuel-gunleri.com
 aktuel-gunleri.sbs
+aktuel-gunun-firsatlari-bim.webredirect.org
 aktuel-h101.com.tr
 aktuel-haberler.sninix.space
 aktuel-harca-harca-bitmez.com
@@ -45934,6 +45938,7 @@ aloistabi.net
 alol-sana-ozel.com
 alolekstra.store
 alolgirishizmetim.site
+alolharcaharcasbitmez.duckdns.org
 aloltemmuzayi.com
 alomemurbey.surf
 alomenstkerest.duckdns.org
@@ -198239,6 +198244,7 @@ habers360tr.cfd
 habers360try.shop
 habers360turk.shop
 habersal.site
+habersayfa12361231.sbs
 habersayfalari176234234.sbs
 habersayfalari234754.sbs
 habersbs45.shop
@@ -208029,6 +208035,7 @@ hemenappr2.is-best.net
 hemenarabakiralama.com
 hemenarabakm.com
 hemenarabanburada.net
+hemenarabanikirala.com
 hemenaracbakim.blogspot.com
 hemenaracinikirala.com.tr
 hemenaracinikirala.xyz
@@ -262106,6 +262113,7 @@ kiralikarabalar.site
 kiralikarabalarantep.info
 kiralikarabalarmix.online
 kiralikarabamax.site
+kiralikarabanavs.com
 kiralikarabauyguna.com.tr
 kiralikarac-com.gq
 kiralikarac-com.tk
@@ -273378,6 +273386,7 @@ lexorica.com
 lexpeyze.info
 lexpress.me
 lexrjel4.duckdns.org
+lexroni.com
 lexu.click
 lexup.click
 lexvoran.one
@@ -283428,6 +283437,7 @@ marketsguvendeodeme.epizy.com
 marketsiparis.info.tr
 marketsiparis.net.tr
 marketsiparis.xyz
+marketsiparisfile.lol
 marketsirasisizde.com
 marketsk-alisveris.com
 marketsk-alisveris.xyz
@@ -287387,6 +287397,7 @@ mersiniyilikor.net
 mersinmerkezotohaliyikama.tk
 mersinturktelekom.com
 mersswa.re.kr
+mert-basaran.com
 mertaltunnss.net
 mertandcinar1948.fun
 mertbaab.click
@@ -288437,6 +288448,7 @@ mhibhglwemp.org
 mhie8769t.duckdns.org
 mhigcb.com
 mhilernduhlzi.cfd
+mhilrndvuzmni.cfd
 mhisp.com
 mhizlimuayenemiz.com
 mhjjj.duckdns.org
@@ -339719,6 +339731,7 @@ prolifefitness.tk
 proliforetka.com
 prolimitler.xyz
 prolinemedia.online
+prolixu.com
 prolkuscus.com.tr
 prologmekvk.duckdns.org
 prologs-consultants.com
@@ -362526,6 +362539,7 @@ sahibinden-get.mobilservisler-78.sbs
 sahibinden-get.mobilservisler-82.sbs
 sahibinden-get.mobilservisler-84.sbs
 sahibinden-get.mobilservisler-89.sbs
+sahibinden-get.mobilservisleri-43.sbs
 sahibinden-get.mobilservisleriniz-11.sbs
 sahibinden-get.mobilservisleriniz-14.sbs
 sahibinden-get.mobilservisleriniz-16.sbs
@@ -365942,6 +365956,7 @@ sahibindenparamguvende.gq
 sahibindenparamguvende.guvenli-alisverislerim.sa.com
 sahibindenparamguvende.guvenliodeme.sa.com
 sahibindenparamguvende.ilan-onay-tr.online
+sahibindenparamguvende.ilan-siparis-servisi.online
 sahibindenparamguvende.ilan-tr.com
 sahibindenparamguvende.ilan-tr.net
 sahibindenparamguvende.ilanguvende.online
@@ -384313,6 +384328,7 @@ sockslab.net
 sockstandby.top
 socktopiashop.com
 socla1.net
+socluo.cc
 socn28fy.duckdns.org
 socourtesy.top
 socratecafu.zapto.org
